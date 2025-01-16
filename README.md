@@ -5,6 +5,7 @@
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
+  https://portfolio-v2-0-liard.vercel.app/
 </p>
 
 <h3 align="left">Languages and Tools:</h3>
