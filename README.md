@@ -1,7 +1,7 @@
 <h1 align="center">Hi 👋, I'm Herin Patel</h1>
 <h3 align="center">A passionate Software developer from India</h3>
 
-<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=herinpatel15" alt="herinpatel15" /></a> </p>
+<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img style="margin: 10px 0;" src="https://github-profile-trophy.vercel.app/?username=herinpatel15" alt="herinpatel15" /></a> </p>
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
